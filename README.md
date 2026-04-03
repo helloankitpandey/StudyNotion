@@ -20,8 +20,8 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 
 <table style="border:1px solid #404040;text-align:center;width:100%">
 <tr><td style="width:14.29%;border:1px solid #404040;">
-        <a href="https://github.com/helloankitpandey" spellcheck="false">
-          <img src="https://avatars.githubusercontent.com/u/95127627?v=4" width="120px;" alt="AnkitPandey" style="border-radius: 5px;"/>
+        <a href="https://github.com/helloankitpandey/" spellcheck="false">
+          <img src="https://avatars.githubusercontent.com/u/158286814?v=4" width="120px;" alt="AnkitPandey" style="border-radius: 5px;"/>
           <br />
           <b>Ankit Pandey</b>
         </a>
